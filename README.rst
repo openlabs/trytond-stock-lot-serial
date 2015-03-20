@@ -20,3 +20,16 @@ control is set for a product, the quantity of the product can't be greater than
 one for incoming moves. Such moves however can be splitted using "Split" button
 provided by this module in shipment form. Each incoming move with quantity 'n'
 will be replaced by 'n' new incoming moves each with quantity equal to one.
+
+Authors and Contributors
+------------------------
+
+This module was built at `Openlabs <http://www.openlabs.co.in>`_. 
+
+Professional Support
+--------------------
+
+This module is professionally supported by `Openlabs <http://www.openlabs.co.in>`_.
+If you are looking for on-site teaching or consulting support, contact our
+`sales <mailto:sales@openlabs.co.in>`_ and `support
+<mailto:support@openlabs.co.in>`_ teams.
